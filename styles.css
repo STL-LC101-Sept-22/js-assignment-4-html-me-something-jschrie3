@@ -1,1 +1,59 @@
 /* Write your CSS here! */
+body {
+
+    background-color: palegreen;
+    font-family: Arial;
+    font-size: 90%;
+    margin: 8px;
+
+}
+
+#mainHeading {
+    color: red;
+}
+
+header {
+    text-align: center;
+}
+
+figure {
+    margin: 0;
+    padding: 1%;
+    text-align: center;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 1em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-top: .5em;
+    margin-bottom: 0;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: .5em;
+    color:slategrey;
+}
+
+
+
+
+footer {
+    text-align: center;
+}
+
+footer p {
+	display: inline-block;
+}
