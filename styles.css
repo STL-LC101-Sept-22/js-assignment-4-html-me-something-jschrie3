@@ -5,7 +5,12 @@ body {
     font-family: Arial;
     font-size: 90%;
     margin: 8px;
+    display: block;
 
+}
+
+.intro-paragraph {
+    font-style: italic;
 }
 
 #mainHeading {
@@ -47,7 +52,9 @@ h5 {
     color:slategrey;
 }
 
-
+.funParagraph {
+    color:green;
+}
 
 
 footer {
